@@ -10,7 +10,7 @@
          $('[rel="icon"]').attr('href', "/favicon.ico");
          document.title = ' (ฅ>ω<*ฅ) 噫又好啦 ~';
          titleTime = setTimeout(function () {
-             document.title = OriginTitle;
+             document.title = '第五轻柔的小窝';
          }, 2000);
      }
  });
